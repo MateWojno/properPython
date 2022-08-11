@@ -1,0 +1,23 @@
+c:\Users\MKW-lip-2021\Desktop\Python0001-Learning\hello_django\venv\Scripts\activate.bat
+
+/deactivate
+
+django install 
+pip install -r requirements.txt
+
+new Django_project
+cmd:
+django-admin startproject helloproject .
+
+cmd:
+py manage.py help
+
+py manage.py runserver
+
+to quit:
+Crtl+C
+
+cmd:
+python manage.py migrate
+
+python manage.py startapp hello_world
