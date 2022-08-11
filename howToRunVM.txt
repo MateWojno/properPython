@@ -3,3 +3,8 @@ C:\Users\MKW-lip-2021\Desktop\Python0001-Learning\env\Scripts\activate.bat
 
 how to end?
 \deactivate
+
+cmd:
+pip freeze > requirements.txt 
+
+to save all requirements
